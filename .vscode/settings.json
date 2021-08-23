@@ -1,0 +1,12 @@
+{
+  "cSpell.language": "en-GB,de",
+  "latex-workshop.bibtex-fields.sort.enabled": true,
+  "latex-workshop.bibtex-format.sort.enabled": true,
+  "latex-workshop.latex.outDir": "%DIR%/out",
+  "latex-workshop.latex.clean.subfolder.enabled": true,
+  "latex-workshop.chktex.enabled": true,
+  "cSpell.words": [
+    "DHBW"
+  ],
+  "latex-workshop.chktex.run": "onType"
+}
